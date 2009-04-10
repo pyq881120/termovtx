@@ -1,7 +1,5 @@
-#define NTL_NO_NEW
 #include "common.h"
 #include "logging.h"
-
 
 struct log_t: file
 {

@@ -1,4 +1,3 @@
-#define NTL_NO_NEW
 #include "common.h"
 #include "vmxroot.h"
 #include "cpuarch.hxx"
